@@ -1,0 +1,76 @@
+Qui sarebbe meglio scrivere il testo del talk o una versione un po' più discorsiva delle slides. 
+
+Questo è un link in cui spiegano in maniera super banale e sintetica il rivelatore e potremmo iniziare a basarci su questo per capire come dividere meglio la presentazione
+
+https://www.mirion.com/learning-center/lab-experiments/high-resolution-gamma-ray-spectroscopy-with-hpge-detectors-lab-experiments
+
+
+L: Io intanto leggo i capitoli 11 e 12 del Knoll, e cerco di scrivere qua magari qualcosa di riassuntivo prima di scrivere le slides vere e proprie.
+
+Ho creato una cartella in cui poter mettere delle foto che vorremmo eventualmente far vedere
+
+Cosa far vedere nell'introduzione teorica:
+
+- Struttura a bande dei semiconduttori, energy gap
+- Semiconduttori intrinseci
+- Drogaggio n (donori)
+- Drogaggio p (accettori)
+- Energia di Ionizzazione
+- Fattore di Fano
+
+- Produzione del segnale
+- Corrente di fuga
+- Giunzione pn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appunti Gio:
+
+
+energy gap germanio tra 0.66 e 0.74eV ma energia per produrre coppia elettrone lacuna è 2.96 eV a 77K(temperatura N2)
+
+
+schematizzazione di base di un rivelatore:
+- La radiazione incidente rilascia una certa energia che viene assorbito dal mezzo(il rivelatore). L'energia viene usata per produrre coppie elettrone-ione(o elettrone lacuna per i semiconduttori, come per il nostro rivelatore)
+- Le cariche prodotte vengono raccolte grazie alla presenza di un campo elettrico. Le cariche generano una certa corrente i(t) nel rivelatore
+
+
+
+preamplificatori:
+
+
+
+signal noise:
+
+
+
+
+
+
+
+
+
+
